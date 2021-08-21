@@ -2,6 +2,5 @@
 
 Ideal application manifest file
 ```
-# TODO
 
 ```
